@@ -3,7 +3,7 @@
 ### Description
 `Linux Shell` coded in `C++ Language` which performs some of the features found in typical shells, like the bash (Bourne Again Shell) or csh (C-Shell).
 
-### Features Implemented
+### Commands Implemented
 - ps
 - ls
 - cd
