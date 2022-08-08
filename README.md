@@ -32,7 +32,7 @@
     ./gbsh
     ```
     
-### Working Screenshots
+### Working Screenshot
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/Linux-gbsh-Shell-Implementation/blob/main/extras/working-ss.png" alt = "" width="700px"/>
 </div>
